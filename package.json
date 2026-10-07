@@ -67,7 +67,7 @@
     "regl": "^2.1.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.46.1",
+    "@playwright/test": "^1.64.0",
     "@sveltejs/vite-plugin-svelte": "^3.1.2",
     "@types/d3": "^7.4.3",
     "@types/d3-geo": "^3.1.0",
