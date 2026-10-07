@@ -63,7 +63,7 @@
     "glsl-fast-gaussian-blur": "^1.0.2",
     "glsl-read-float": "^1.1.0",
     "lodash.merge": "^4.6.2",
-    "rbush-3d": "^0.0.4",
+    "rbush-3d": "^0.1.2",
     "regl": "^2.1.0"
   },
   "devDependencies": {
